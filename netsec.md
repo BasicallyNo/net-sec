@@ -3,7 +3,7 @@
 # [Index]
 # Module 1 - 4: Securing Networks
 ## 1. Network Topologies
-Test paragraph
+A Test paragraph
 ## 2. Network Threats
 ## 3. Mitigating Threats
 ## 4. Secure Device Access
@@ -19,7 +19,8 @@ Test paragraph
 ## 10. Zone Based Policy Firewalls
 
 # Modules 11 - 12: Intrusion Prevention
-## 11. IPS Operation and Implementation
+## 11. IPS Technologies
+## 12. IPS Operation and Implementation
 
 # Modules 13 - 14: Layer 2 and Endpoint Security
 ## 13. Endpoint Security
@@ -31,11 +32,7 @@ Test paragraph
 ## 17. Public Key Cryptography
 
 # Modules 18 - 19: VPNs
-##
-##
-##
+
 
 # Modules 20 - 22: ASA
-##
-##
-##
+
