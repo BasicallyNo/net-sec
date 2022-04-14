@@ -4,6 +4,11 @@
 # Module 1 - 4: Securing Networks
 ## 1. Network Topologies
 #### Campus Area Networks
+The main focus of this course is on securing Campus Area Networks (CANs). Campus Area Networks consists of interconnected LANs within a limited geographic area. Connections to untrusted networks must be checked in-depth by multiple layers of defense before reaching enterprise resources. This is known as defense-in-depth.
+
+Useful technologies for providing Campus Area Network (CAN) defence:
+- VPN
+Virtual Private Networks are seperate from the internet and are a means of providing data confidentiality and integrity from authenticated sources.
 #### Small Office & Home Office Networks
 #### Wide Area Networks
 #### Data Center Networks
