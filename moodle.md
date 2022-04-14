@@ -7,8 +7,8 @@
 - Refer to net-sec.md
 
 ## Week 3
-#### Resources
+### Resources
 fklklbdfdklsb
-#### Questions
+### Questions
 1. question one
 2. question two
