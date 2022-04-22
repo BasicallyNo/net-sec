@@ -1,24 +1,23 @@
-# Moodle Resources
+## Moodle Resources
 
-## Week 4
-1 Which of the following are two common methods of deploying AAA?
-
-a. Flash-based
-b. Local
-c. Server-based
-d. PC-based
+### Week 4
+1. Which of the following are two common methods of deploying AAA? <br>
+a. Flash-based<br>
+b. Local<br>
+c. Server-based<br>
+d. PC-based<br>
 
 Answer:
-2 The simplest way to store AAA data is to use an ACS server. True or False?
+2. The simplest way to store AAA data is to use an ACS server. True or False?<br>
+a. True<br>
+b. False<br>
+
+Answer:
+3. Server-based AAA does not support accounting. True or False?
 a. True
 b. False
-
 Answer:
-3 Server-based AAA does not support accounting. True or False?
-a. True
-b. False
-Answer:
-4 Which authentication protocol is Cisco proprietary?
+4. Which authentication protocol is Cisco proprietary?
 a. TACAS+
 b. RADIUS
 c. LDAP
